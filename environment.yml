@@ -1,4 +1,4 @@
-name: corr_plus_corr
+name: GEC_BF_DnCNN_fastMRI
 channels:
   - frankong
   - anaconda
