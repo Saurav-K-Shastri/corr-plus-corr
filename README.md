@@ -4,7 +4,11 @@ Authors: Saurav K. Shastri, Rizwan Ahmad, Christopher A. Metzler, and Philip Sch
 
 The corr+corr denoiser is described in Section III-B of our paper: "Denoising Generalized Expectation-Consistent Approximation for MRI Image Recovery"
 
-arXiv Link: https://arxiv.org/pdf/2206.05049.pdf
+The paper has been accepted for publication as a Special Issue on Deep Learning Methods for Inverse Problems paper in the IEEE Journal on Selected Areas in Information Theory.
+
+IEEE link: https://ieeexplore.ieee.org/document/9893363
+
+arXiv link (includes supplementary material): https://arxiv.org/pdf/2206.05049.pdf
 
 The 'Denoiser_Experiments' folder contains the code files required for generating the results shown in Section IV-A of the paper.
 
