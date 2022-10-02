@@ -19,3 +19,8 @@ To make sure that the versions of the packages match those we tested the code wi
 ```bash
 conda env create -f environment.yml
 ```
+
+## Acknowledgments
+- [bias free denoising](https://github.com/LabForComputationalVision/bias_free_denoising)
+- [D-VDAMP](https://github.com/Intelligent-Sensing/D-VDAMP)
+- [fastMRI](https://github.com/facebookresearch/fastMRI)
